@@ -43,7 +43,7 @@ def lin3():
 def main_menu():
     os.system("clear")
     print(logo);lin3()
-    print(f"{11(1)}File Cloning ")   
+    print(f"{oo(1)}File Cloning ")   
     print(f"{oo(0)}Exit")
     lin3()
     cp =input('[?] Choice : ')
